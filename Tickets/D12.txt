@@ -1,0 +1,7 @@
+Row: D
+Seat: 12
+Price: 180
+Buyer info: 
+First name: KISARA
+Surname: HERATH
+Email: kisarakumara@gmail.com
